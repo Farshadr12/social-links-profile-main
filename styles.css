@@ -22,13 +22,14 @@ body {
 .links a {
   color: white;
   background-color: #404040;
+  transition: all 150ms;
 }
 .links a:hover {
   background-color: rgb(190, 255, 61);
   color: #151515;
 }
 .container {
-  height: 500px;
+  height: 550px;
   width: 90vw;
   max-width: 300px;
   border-radius: 10px;
